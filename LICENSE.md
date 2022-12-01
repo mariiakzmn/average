@@ -1,3 +1,3 @@
 (C) University College London 2014
 
-This "greetings" example package is granted into the public domain.
+This "Average" example package is granted into the public domain.
